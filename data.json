@@ -1,0 +1,74 @@
+{
+  "slots": {
+    "slotA": {
+      "name": "Cafe Parking A",
+      "lat": 12.9716,
+      "lng": 77.5946,
+      "isAvailable": true,
+      "description": "Near Starbucks MG Road"
+    },
+    "slotB": {
+      "name": "Mall Parking B",
+      "lat": 12.9721,
+      "lng": 77.5950,
+      "isAvailable": true,
+      "description": "UB City Mall Parking"
+    },
+    "slotC": {
+      "name": "Office Parking C",
+      "lat": 12.9730,
+      "lng": 77.5935,
+      "isAvailable": true,
+      "description": "Tech Park Entry Gate"
+    },
+    "slotD": {
+      "name": "Hospital Parking D",
+      "lat": 12.9705,
+      "lng": 77.5920,
+      "isAvailable": true,
+      "description": "Apollo Hospital Parking"
+    },
+    "slotE": {
+      "name": "Restaurant Parking E",
+      "lat": 12.9695,
+      "lng": 77.5955,
+      "isAvailable": true,
+      "description": "BBQ Nation Area"
+    },
+    "slotF": {
+      "name": "Street Parking F",
+      "lat": 12.9740,
+      "lng": 77.5960,
+      "isAvailable": true,
+      "description": "Public roadside parking"
+    },
+    "slotG": {
+      "name": "Cinema Parking G",
+      "lat": 12.9750,
+      "lng": 77.5940,
+      "isAvailable": true,
+      "description": "PVR Cinema Parking"
+    },
+    "slotH": {
+      "name": "Metro Parking H",
+      "lat": 12.9760,
+      "lng": 77.5930,
+      "isAvailable": true,
+      "description": "Metro Station Parking"
+    },
+    "slotI": {
+      "name": "Apartment Parking I",
+      "lat": 12.9685,
+      "lng": 77.5942,
+      "isAvailable": true,
+      "description": "Residential Area"
+    },
+    "slotJ": {
+      "name": "Hotel Parking J",
+      "lat": 12.9675,
+      "lng": 77.5938,
+      "isAvailable": true,
+      "description": "5-Star Hotel Parking"
+    }
+  }
+}
