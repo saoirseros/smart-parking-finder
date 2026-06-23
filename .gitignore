@@ -43,3 +43,9 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Project assets not for GitHub
+Smart_Parking_Finder_Report.pdf
+main_screen.jpeg
+qr_screen.jpeg
+demo.mp4
